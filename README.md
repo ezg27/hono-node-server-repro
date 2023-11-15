@@ -23,4 +23,4 @@ better simulate the problem - if you're connection is fast enough you may not
 see the problem initially, so you may need to up the `setTimeout` delay in
 `index.ts`.
 
-<!-- TODO: insert video -->
+https://github.com/ezg27/hono-node-server-repro/assets/40216869/a89b744d-2dfd-4cba-aa7c-dfe5ff38c484
